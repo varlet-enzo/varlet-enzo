@@ -47,3 +47,9 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/varlet-enzo/varlet-enzo/output/snake.svg" alt="Snake animation" />
+
+###
+A white circle with a dark file icon outlined in the center
+Profile Readme 
