@@ -29,27 +29,3 @@
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo" />
   </a>
 </div>
-
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=varlet-enzo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=varlet-enzo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varlet-enzo/varlet-enzo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varlet-enzo/varlet-enzo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/varlet-enzo/varlet-enzo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/varlet-enzo/varlet-enzo/output/snake.svg" alt="Snake animation" />
-
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme 
