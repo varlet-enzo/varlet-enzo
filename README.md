@@ -32,15 +32,12 @@
 
 <div align="center">
 
-<div align="center">
-
 ### 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=varlet-enzo&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=varlet-enzo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub trophies" />
 
 </div>
-
 
 ---
 
